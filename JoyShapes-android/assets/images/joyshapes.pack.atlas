@@ -1,0 +1,223 @@
+
+joyshapes.pack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Text0
+  rotate: false
+  xy: 488, 450
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text0g
+  rotate: false
+  xy: 364, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text1
+  rotate: false
+  xy: 326, 126
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text1g
+  rotate: false
+  xy: 402, 126
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text2
+  rotate: false
+  xy: 488, 412
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text2g
+  rotate: false
+  xy: 488, 336
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text3
+  rotate: false
+  xy: 526, 450
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text3g
+  rotate: false
+  xy: 526, 374
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text4
+  rotate: false
+  xy: 326, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text4g
+  rotate: false
+  xy: 564, 412
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text5
+  rotate: false
+  xy: 364, 126
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text5g
+  rotate: false
+  xy: 602, 450
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text6
+  rotate: false
+  xy: 488, 374
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text6g
+  rotate: false
+  xy: 326, 12
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text7
+  rotate: false
+  xy: 526, 412
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text7g
+  rotate: false
+  xy: 364, 50
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text8
+  rotate: false
+  xy: 564, 450
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text8g
+  rotate: false
+  xy: 402, 88
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text9
+  rotate: false
+  xy: 326, 50
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Text9g
+  rotate: false
+  xy: 440, 126
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+TextXg
+  rotate: false
+  xy: 488, 298
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 2, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 2, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 526, 336
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 164, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 2, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 164, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+enemy4
+  rotate: false
+  xy: 326, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+enemy5
+  rotate: false
+  xy: 164, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 564, 374
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 326, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

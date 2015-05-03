@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/JoyShapes"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/gdx-backend-lwjgl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/extensions/gdx-controllers/gdx-controllers-desktop-natives.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/extensions/gdx-controllers/gdx-controllers-desktop.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/extensions/gdx-controllers/gdx-controllers.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/gdx-natives.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/extensions/gdx-tools/gdx-tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Brian/Desktop/LibGdx/gdx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
